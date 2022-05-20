@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214283581461",
+    "project_id": "inoutcome-2b4bc",
+    "storage_bucket": "inoutcome-2b4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214283581461:android:b0c4abcbe3f0426f08361c",
+        "android_client_info": {
+          "package_name": "com.example.inoutcome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214283581461-4sk5andrthrtp8kqsp6bjnm3qm6acq15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaGPmgVYH5k7jpX33AHefhrq0kyQa2qA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214283581461-4sk5andrthrtp8kqsp6bjnm3qm6acq15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
